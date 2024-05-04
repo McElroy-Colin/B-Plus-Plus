@@ -1,4 +1,4 @@
-# RegalV0.1
+# Regal V0.1
 
 Python version required: **Python 3.8.0+**
 
